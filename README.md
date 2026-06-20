@@ -1,4 +1,4 @@
 # apnacollege-demo
 this my first programm
 <br>
-author - dipu 
+author - dipu prakash
